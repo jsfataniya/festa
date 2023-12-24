@@ -1,0 +1,49 @@
+<svg style="transform: translate(0px, 0px);" height="120px" id="barcode" version="1.1"
+    viewBox="0 0 330 120" width="332px" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+    <rect style="fill:none;" height="120" width="330" x="0" y="0" />
+    <g style="fill:#FFFFFF;" transform="translate(10, 10)">
+        <rect height="100" width="4" x="0" y="0" />
+        <rect height="100" width="2" x="6" y="0" />
+        <rect height="100" width="2" x="12" y="0" />
+        <rect height="100" width="2" x="22" y="0" />
+        <rect height="100" width="2" x="26" y="0" />
+        <rect height="100" width="4" x="34" y="0" />
+        <rect height="100" width="2" x="44" y="0" />
+        <rect height="100" width="2" x="52" y="0" />
+        <rect height="100" width="4" x="56" y="0" />
+        <rect height="100" width="2" x="66" y="0" />
+        <rect height="100" width="2" x="74" y="0" />
+        <rect height="100" width="4" x="82" y="0" />
+        <rect height="100" width="2" x="88" y="0" />
+        <rect height="100" width="4" x="94" y="0" />
+        <rect height="100" width="6" x="100" y="0" />
+        <rect height="100" width="2" x="110" y="0" />
+        <rect height="100" width="2" x="116" y="0" />
+        <rect height="100" width="4" x="120" y="0" />
+        <rect height="100" width="2" x="132" y="0" />
+        <rect height="100" width="2" x="138" y="0" />
+        <rect height="100" width="4" x="148" y="0" />
+        <rect height="100" width="2" x="154" y="0" />
+        <rect height="100" width="2" x="164" y="0" />
+        <rect height="100" width="4" x="168" y="0" />
+        <rect height="100" width="2" x="176" y="0" />
+        <rect height="100" width="4" x="182" y="0" />
+        <rect height="100" width="6" x="188" y="0" />
+        <rect height="100" width="2" x="198" y="0" />
+        <rect height="100" width="6" x="204" y="0" />
+        <rect height="100" width="4" x="214" y="0" />
+        <rect height="100" width="4" x="220" y="0" />
+        <rect height="100" width="6" x="228" y="0" />
+        <rect height="100" width="2" x="238" y="0" />
+        <rect height="100" width="4" x="242" y="0" />
+        <rect height="100" width="2" x="250" y="0" />
+        <rect height="100" width="6" x="254" y="0" />
+        <rect height="100" width="2" x="264" y="0" />
+        <rect height="100" width="2" x="272" y="0" />
+        <rect height="100" width="4" x="280" y="0" />
+        <rect height="100" width="4" x="286" y="0" />
+        <rect height="100" width="6" x="296" y="0" />
+        <rect height="100" width="2" x="304" y="0" />
+        <rect height="100" width="4" x="308" y="0" />
+    </g>
+</svg>

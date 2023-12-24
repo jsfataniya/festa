@@ -1,0 +1,42 @@
+name: festa
+
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  flutter_svg: ^2.0.9
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Outfit
+      fonts:
+        - asset: assets/font/Outfit-Black.ttf
+        - asset: assets/font/Outfit-Bold.ttf
+        - asset: assets/font/Outfit-ExtraBold.ttf
+        - asset: assets/font/Outfit-ExtraLight.ttf
+        - asset: assets/font/Outfit-Light.ttf
+        - asset: assets/font/Outfit-Medium.ttf
+        - asset: assets/font/Outfit-Regular.ttf
+        - asset: assets/font/Outfit-SemiBold.ttf
+        - asset: assets/font/Outfit-Thin.ttf
